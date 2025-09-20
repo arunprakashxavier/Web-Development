@@ -1,4 +1,4 @@
-package Assignment;//Asks the user for:
+package CodingChallenge;//Asks the user for:
 //1. Name
 //2. Age
 //3. Favorite Color
@@ -6,7 +6,7 @@ package Assignment;//Asks the user for:
 
 import java.util.Scanner;
 
-public class Assignment2{
+public class CodingChallenge2 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Please enter your name : ");

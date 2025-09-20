@@ -1,7 +1,7 @@
-package Assignment; ////print even numbers between a range of values
+package CodingChallenge; ////print even numbers between a range of values
 import java.util.Scanner;
 
-public class Assignment8 {
+public class CodingChallenge8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of range 1 : ");

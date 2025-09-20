@@ -1,8 +1,8 @@
-package Assignment;
+package CodingChallenge;
 
 import java.util.Scanner;
 
-public class Assignment3 {
+public class CodingChallenge3 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your name : ");

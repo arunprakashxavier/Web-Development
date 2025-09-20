@@ -1,6 +1,6 @@
-package Assignment;
+package CodingChallenge;
 
-public class Assignment1 {
+public class CodingChallenge1 {
     public static void main(String[] args){
         String name = "ARUN PRAKASH";
         int age = 25;

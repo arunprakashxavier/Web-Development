@@ -1,8 +1,8 @@
-package Assignment;
+package CodingChallenge;
 
 import java.util.Scanner;
 
-public class Assignment4 {
+public class CodingChallenge4 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of a : ");

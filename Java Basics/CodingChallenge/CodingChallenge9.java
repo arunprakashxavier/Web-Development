@@ -1,7 +1,9 @@
-package Assignment;//```print numbers divisible by number 3&5```
+//```print numbers divisible by number 3&5```
+
+package CodingChallenge;
 import java.util.Scanner;
 
-public class Assignment9 {
+public class CodingChallenge9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of range 1 : ");

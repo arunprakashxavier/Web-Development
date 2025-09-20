@@ -1,7 +1,7 @@
-package Assignment;//Check whether numb1 and numb2 are equal
+package CodingChallenge;//Check whether numb1 and numb2 are equal
 import java.util.Scanner;
 
-public class Assignment6 {
+public class CodingChallenge6 {
     public static void main(String[] Args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of number 1 : ");

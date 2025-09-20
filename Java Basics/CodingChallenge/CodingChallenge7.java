@@ -1,8 +1,8 @@
-package Assignment;//print a range of values eg 1 to 10
+package CodingChallenge;//print a range of values eg 1 to 10
 
 import java.util.Scanner;
 
-public class Assignment7 {
+public class CodingChallenge7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a,b;
