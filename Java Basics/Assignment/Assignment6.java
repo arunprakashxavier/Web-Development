@@ -1,4 +1,4 @@
-//Check whether numb1 and numb2 are equal
+package Assignment;//Check whether numb1 and numb2 are equal
 import java.util.Scanner;
 
 public class Assignment6 {

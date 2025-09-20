@@ -1,9 +1,9 @@
-//Right aligned triangle
+package StarPattern;//3 stars in 3 rows
 
-public class StarPattern2 {
+public class StarPattern1 {
     public static void main(String[] args) {
-        for(int i=0; i<=2; i++){
-            for(int j=0; j<=i; j++){
+        for(int i=0;i<=2;i++){
+            for(int j=0;j<=2;j++){
                 System.out.print("*");
             }
             System.out.println();

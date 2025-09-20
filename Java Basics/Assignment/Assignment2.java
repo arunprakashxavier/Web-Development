@@ -1,4 +1,4 @@
-//Asks the user for:
+package Assignment;//Asks the user for:
 //1. Name
 //2. Age
 //3. Favorite Color

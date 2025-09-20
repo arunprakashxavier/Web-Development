@@ -1,4 +1,4 @@
-//```print numbers divisible by number 3&5```
+package Assignment;//```print numbers divisible by number 3&5```
 import java.util.Scanner;
 
 public class Assignment9 {

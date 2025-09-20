@@ -1,4 +1,4 @@
-//Inverted right aligned triangle
+package StarPattern;//Inverted right aligned triangle
 
 public class StarPattern3 {
     public static void main(String[] args) {

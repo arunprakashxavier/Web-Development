@@ -1,4 +1,4 @@
-//print a range of values eg 1 to 10
+package Assignment;//print a range of values eg 1 to 10
 
 import java.util.Scanner;
 
